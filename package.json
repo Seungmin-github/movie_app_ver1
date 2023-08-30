@@ -52,5 +52,5 @@
     "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": "error"
   },
-  "homepage": "https://github.com/Seungmin-github"
+  "homepage": "https://seungmin-github.github.io/movie_app_ver1"
 }
